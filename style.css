@@ -1,0 +1,112 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+#bir {
+    background-color: lightcoral;
+}
+
+.title {
+    /* CONTAINER AND FLEXBOX */
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 64px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.title span {
+    /* CONTAINER AND FLEXBOX */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+    color: #F8FD0D;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 100px;
+}
+
+.logo {
+    /* Logo */
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+}
+
+.header {
+    display: flex;
+    gap: 100px;
+}
+
+.card1 {
+    width: 300px;
+    background-color: black;
+    color: white;
+}
+
+.card2{
+    width: 300px;
+    background-color: black;
+    color: white;
+}
+
+.card3{
+    width: 300px;
+    background-color: black;
+    color: white;
+}
+
+.card4{
+    width: 300px;
+    background-color: black;
+    color: white;
+}
+
+.card5{
+    width: 300px;
+    background-color: black;
+    color: white;
+}
+
+.card6{
+    width: 300px;
+    background-color: black;
+    color: white;
+}
+
+.etaj1{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.etaj2{
+    display: flex;
+    justify-content: center;
+}
+
+.card1{
+    margin-right: 30px;
+}
+
+.card2{
+    margin-right: 30px;
+}
+
+.card4{
+    margin-right: 30px;
+}
+
+.card5{
+    margin-right: 30px;
+}
+
